@@ -31,14 +31,36 @@ https://www.behance.net/gallery/124729731/The-European-Cannabis-Investment-Ecosy
 <br>
 
 Menurut keempat prinsip visualisasi data, visualisasi dianggap baik:
-1. Menceritakan cerita dengan data: Visualisasi ini menceritakan tentang produksi pasta di berbagai negara. Ukuran tumpukan pasta, yang menunjukkan jumlah produksi dalam ton, digunakan untuk menunjukkan setiap negara. Informasi yang disampaikan mudah dipahami dan menunjukkan dengan jelas perbandingan produksi negara.
-2. Menjaga Kesederhanaan (Menjaga Kesederhanaan): Visualisasi ini sederhana dan menghindari elemen yang tidak penting. Hanya ada gambar tumpukan pasta yang menunjukkan setiap negara, dengan angka jelas di atasnya yang menunjukkan angka produksi. Tidak ada elemen visual yang menyimpang dari pesan utama.
-3. Menunjukkan pesan kunci (menyoroti pesan utama): Pesan utama, yaitu jumlah produksi pasta di setiap negara, dapat dilihat dengan mudah dengan melihat ukuran tumpukan pasta dan angka besar di atasnya. Dengan Italia sebagai produsen pasta terbesar, perbandingan antara negara menjadi mudah.
-4. Menjaga konsistensi (menjaga konsistensi): Penggunaan elemen visual yang seragam memastikan konsistensi: tumpukan pasta dari setiap negara digambarkan dalam kotak yang sama, tetapi dengan ukuran yang berbeda berdasarkan data. Visualisasi menjadi mudah dipahami berkat warna dan bentuk yang seragam. Selain itu, negara-negara diberi label dengan bendera yang konsisten dan jelas, yang menambah elemen visual yang konsisten di seluruh tampilan.
+1. Telling stories with data: Visualisasi ini menceritakan tentang produksi pasta di berbagai negara. Ukuran tumpukan pasta, yang menunjukkan jumlah produksi dalam ton, digunakan untuk menunjukkan setiap negara. Informasi yang disampaikan mudah dipahami dan menunjukkan dengan jelas perbandingan produksi negara.
+2. Maintain simplicity: Visualisasi ini sederhana dan menghindari elemen yang tidak penting. Hanya ada gambar tumpukan pasta yang menunjukkan setiap negara, dengan angka jelas di atasnya yang menunjukkan angka produksi. Tidak ada elemen visual yang menyimpang dari pesan utama.
+3. Highlight key messages: Pesan utama, yaitu jumlah produksi pasta di setiap negara, dapat dilihat dengan mudah dengan melihat ukuran tumpukan pasta dan angka besar di atasnya. Dengan Italia sebagai produsen pasta terbesar, perbandingan antara negara menjadi mudah.
+4. Maintain consistency: Penggunaan elemen visual yang seragam memastikan konsistensi: tumpukan pasta dari setiap negara digambarkan dalam kotak yang sama, tetapi dengan ukuran yang berbeda berdasarkan data. Visualisasi menjadi mudah dipahami berkat warna dan bentuk yang seragam. Selain itu, negara-negara diberi label dengan bendera yang konsisten dan jelas, yang menambah elemen visual yang konsisten di seluruh tampilan.
 5. Kesimpulan: Visualisasi ini memenuhi prinsip-prinsip desain yang baik karena menyampaikan pesan dengan jelas dan sederhana, memiliki elemen visual yang konsisten, dan menekankan perbedaan utama antar negara dalam produksi pasta. Ini adalah contoh visualisasi yang bagus untuk cerita berbasis data.
 
 <br>
 <br>
 
 ## B. VISUALISASI YANG BURUK
-### 1)
+### 1) Berapa biaya sebuah Batu Nisan?
+<br>
+
+Menurut keempat prinsip visualisasi data, visualisasi dianggap buruk:
+1. Telling stories with data:
+   - Ukurangnya Konteks: Grafik ini tidak memberikan kisah di balik data. Grafik menunjukkan harga berbagai jenis batu nisan, tetapi tidak menjelaskan mengapa informasi ini penting.
+   - Tidak Menarik secara Naratif: Visualisasi seharusnya mengarahkan penonton dengan cerita yang rasional. Grafik ini hanya menampilkan harga, tanpa memberikan arahan tentang bagaimana harga tersebut berpengaruh bagi penonton.
+2. Maintain simplicity:
+   - Efek Gradien Tidak Perlu: Penggunaan gradien pada batang justru mengganggu karena menambahkan elemen visual yang tidak penting. Meskipun mereka tidak memberikan informasi tambahan, gradien malah membuat grafik tampak lebih rumit daripada yang sebenarnya.
+   - Terlalu Banyak Jenis Format Angka: Meskipun harga merupakan komponen utama, label yang digunakan tidak konsisten dalam urutan dan dapat dihilangkan atau dipermudah tanpa kehilangan informasi penting.
+3. Highlight key messages:
+   - Pesan Utama Kurang Jelas: Grafik ini tidak menunjukkan pesan utama dengan jelas. Apakah tujuannya hanya menunjukkan rentang harga? Jika demikian, fokus visual yang lebih tajam, seperti tata letak yang lebih baik atau penekanan warna yang lebih baik, harus membantu penonton cepat memahami kisaran harga.
+   - Setiap batang memiliki warna yang sama, sehingga setiap item terlihat sama pentingnya. Akan lebih bermanfaat jika ada perbedaan warna dan ikonografi untuk menekankan aspek penting, seperti harga terendah dan tertinggi.
+4. Maintain consistency:
+   - Konsistensi Skala dan Label: Rentang sumbu horisontal tidak rata. Label harga terlihat mengambang dan tidak konsisten di sepanjang sumbu X. Akibatnya, interpretasi menjadi kurang jelas.
+   - Desain: Memberikan kesan tidak pasti atau ambigu pada ujung setiap batang akan tidak diperlukan dalam data numerik seperti ini. Visualisasi harus jelas dan tegas.
+5. Perbaikan yang direkomendasikan, sehingga visualisasi akan membantu menyampaikan informasi dengan lebih baik.
+   - Tanggalkan gradien dan efek bayangan.
+   - Untuk membedakan kategori, gunakan warna yang berbeda atau kontras yang lebih tinggi.
+   - Tambah konteks atau kesimpulan cerita.
+   - Pastikan label dan sumbu lebih terorganisir, konsisten, dan mudah dibaca.
+   
+
