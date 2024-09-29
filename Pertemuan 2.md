@@ -42,6 +42,7 @@ Menurut keempat prinsip visualisasi data, visualisasi dianggap baik:
 
 ## B. VISUALISASI YANG BURUK
 ### 1) Berapa biaya sebuah Batu Nisan?
+![tumblr_qj0tnmeroK1sgh0voo1_1280](https://github.com/user-attachments/assets/8221cd99-aa1b-4223-a17b-1a5e4bcb5d53)
 <div align="center">
 Biaya sebuah batu nisan <br>
 ttps://www.milanomonuments.com/blog/how-much-do-memorials-headstones-and-monuments-cost-and-why
@@ -69,4 +70,30 @@ Menurut keempat prinsip visualisasi data, visualisasi dianggap buruk:
 
 <br>
 
-### 2) 
+### 2) Covid-19 dan Penyakit lainnya
+
+<div align="center">
+Covid-19 dan Penyakit lainnya <br>
+[https://www.milanomonuments.com/blog/how-much-do-memorials-headstones-and-monuments-cost-and-why](https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/15/pacientes-com-cancer-e-cardiacos-deixam-de-buscar-atendimento-por-medo-da-covid-19-alertam-medicos.ghtml
+)
+</div>
+<br>
+
+Menurut keempat prinsip visualisasi data, visualisasi dianggap buruk:
+1. Telling stories with data:
+   - Konteks Minim: Grafik ini tidak memberikan kisah data yang jelas. Tidak ada penjelasan lebih lanjut tentang hal-hal seperti jumlah korban atau mengapa penyakit-penyakit ini penting bagi COVID-19. Selain itu, narasi yang mendasari hubungan antara COVID-19 dan penyakit-penyakit lain tidak jelas.
+   - Tidak Memberikan Penekanan Naratif: Hanya memberikan angka dan jenis penyakit yang berkaitan tanpa memberikan penjelasan lanjutan tentang efeknya atau mengapa ini penting. Ini membuat sulit bagi pengguna untuk memahami nilai utama data.
+2. Maintain simplicity:
+   - Donut Chart yang Kurang Efektif: Menggunakan grafik donut bisa membuat sulit untuk membedakan proporsi dari setiap penyakit, terutama untuk kategori dengan angka kecil seperti asma (28) atau obesitas (48). Bar chart, misalnya, mungkin lebih baik untuk membuat perbandingan antar kategori lebih mudah dibaca.
+   - Warna yang Serupa: Warna yang digunakan dalam menggambarkan berbagai penyakit sangat mirip satu sama lain, sehingga sulit membedakan kategori tanpa melihat legenda. Ini meningkatkan beban mental pengguna untuk terus mencocokkan warna dan label.
+3. Highlight key messages:
+   - Pesan Utama Kurang Jelas: Penyakit dengan proporsi terbesar, kardiopati, dengan 521 kasus, tidak terlihat. Penekanan yang lebih kuat pada data yang paling penting harus diberikan, baik dari segi ukuran maupun warna, agar pembaca dapat dengan cepat memahami inti dari grafik.
+   - Tidak Ada Penekanan pada Efek yang signifikan: Grafik ini tidak menunjukkan hubungan antara penyakit dan kematian akibat Covid-19. Tidak ada elemen yang mencapai kesimpulan penting atau saran tentang apa yang harus diwaspadai oleh masyarakat.
+4. Maintain consistency:
+   - Konsistensi Warna Tidak Optimal: Palet warna yang digunakan tidak konsisten dalam menunjukkan hubungan antar penyakit atau tingkat keparahan. Warna gelap atau terang tidak selalu menunjukkan perbedaan angka yang signifikan.
+   - Penggunaan Lingkaran Kurang Efektif: Lingkaran dalam grafik donut hanya mengurangi ruang data dan tidak memiliki informasi tambahan. Ada opsi untuk menggunakan visualisasi yang lebih sederhana dan langsung, seperti tabel atau diagram batang, sebagai penggantinya.
+5. Perbaikan yang direkomendasikan, sehingga visualisasi akan membantu menyampaikan informasi dengan lebih baik.
+   - Untuk setiap kategori, gunakan bar chart dengan warna yang berbeda dan kontras.
+   - Untuk memberikan informasi kontekstual yang lebih jelas tentang hubungan antara penyakit yang terkait dan kematian akibat Covid-19, gunakan penekanan visual seperti ukuran teks atau warna untuk menunjukkan pesan utama.
+   - Pastikan warna konsisten dan jelaskan perbedaan data.
+
