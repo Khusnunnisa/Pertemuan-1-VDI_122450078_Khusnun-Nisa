@@ -71,7 +71,7 @@ Menurut keempat prinsip visualisasi data, visualisasi dianggap buruk:
 <br>
 
 ### 2) Covid-19 dan Penyakit lainnya
-
+![whatsapp-image-2020-04-13-at-21 07 59](https://github.com/user-attachments/assets/9cfdfbb1-0945-4263-876b-514789d39420)
 <div align="center">
 Covid-19 dan Penyakit lainnya <br>
 [https://www.milanomonuments.com/blog/how-much-do-memorials-headstones-and-monuments-cost-and-why](https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/15/pacientes-com-cancer-e-cardiacos-deixam-de-buscar-atendimento-por-medo-da-covid-19-alertam-medicos.ghtml
