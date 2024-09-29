@@ -25,8 +25,8 @@ Menurut keempat prinsip visualisasi data, visualisasi dianggap baik:
 ### 2) Negara dengan Produksi Pasta tertinggi
 <img width="1337" alt="Skærmbillede-2016-02-10-kl -11 15 15" src="https://github.com/user-attachments/assets/28852458-0be8-4a5e-8f68-eeaeed2f4d5b">
 <div align="center">
-Aktivitas Berdasarkan Jenis Investasi <br>
-https://www.behance.net/gallery/124729731/The-European-Cannabis-Investment-Ecosystem
+Negara dengan Produksi Pasta tertinggi <br>
+https://datavizproject.com/data-type/pictorial-bar-chart/
 </div>
 <br>
 
@@ -42,6 +42,10 @@ Menurut keempat prinsip visualisasi data, visualisasi dianggap baik:
 
 ## B. VISUALISASI YANG BURUK
 ### 1) Berapa biaya sebuah Batu Nisan?
+<div align="center">
+Biaya sebuah batu nisan <br>
+ttps://www.milanomonuments.com/blog/how-much-do-memorials-headstones-and-monuments-cost-and-why
+</div>
 <br>
 
 Menurut keempat prinsip visualisasi data, visualisasi dianggap buruk:
@@ -62,5 +66,7 @@ Menurut keempat prinsip visualisasi data, visualisasi dianggap buruk:
    - Untuk membedakan kategori, gunakan warna yang berbeda atau kontras yang lebih tinggi.
    - Tambah konteks atau kesimpulan cerita.
    - Pastikan label dan sumbu lebih terorganisir, konsisten, dan mudah dibaca.
-   
 
+<br>
+
+### 2) 
